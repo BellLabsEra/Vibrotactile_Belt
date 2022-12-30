@@ -7,4 +7,6 @@ src | Soucre | Contains the Python Firmware for the Raspberry 4 Model B, ChangeL
 notes | | Contains Hardware and Software Resources for knowledge building, PDFs of Handwritten notes, etc
 images | blah | blah 
 ## System Architecture
-![System Architecutre Diagram] (https://github.com/BellLabsEra/Vibrotactile_Belt/blob/2102b2ec3ebb47d1346644e36870d43c2f87ac21/images/System_Arch.PNG "System Arch Digram 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![alt text] (https://github.com/BellLabsEra/Vibrotactile_Belt/blob/2102b2ec3ebb47d1346644e36870d43c2f87ac21/images/System_Arch.PNG "System Arch Digram 1")
